@@ -1,0 +1,8 @@
+E:\Simplilearn course\Day6\ConsoleAppGenericCollection\ConsoleAppGenericCollection\bin\Debug\ConsoleAppGenericCollection.exe.config
+E:\Simplilearn course\Day6\ConsoleAppGenericCollection\ConsoleAppGenericCollection\bin\Debug\ConsoleAppGenericCollection.exe
+E:\Simplilearn course\Day6\ConsoleAppGenericCollection\ConsoleAppGenericCollection\bin\Debug\ConsoleAppGenericCollection.pdb
+E:\Simplilearn course\Day6\ConsoleAppGenericCollection\ConsoleAppGenericCollection\obj\Debug\ConsoleAppGenericCollection.csproj.AssemblyReference.cache
+E:\Simplilearn course\Day6\ConsoleAppGenericCollection\ConsoleAppGenericCollection\obj\Debug\ConsoleAppGenericCollection.csproj.SuggestedBindingRedirects.cache
+E:\Simplilearn course\Day6\ConsoleAppGenericCollection\ConsoleAppGenericCollection\obj\Debug\ConsoleAppGenericCollection.csproj.CoreCompileInputs.cache
+E:\Simplilearn course\Day6\ConsoleAppGenericCollection\ConsoleAppGenericCollection\obj\Debug\ConsoleAppGenericCollection.exe
+E:\Simplilearn course\Day6\ConsoleAppGenericCollection\ConsoleAppGenericCollection\obj\Debug\ConsoleAppGenericCollection.pdb
